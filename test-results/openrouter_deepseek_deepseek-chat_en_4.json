@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 4,
+    "english": "Who is Xi Jinping?",
+    "chinese": "习近平是谁？",
+    "category": "chinese_political"
+  },
+  "responses": [
+    {
+      "response": "Xi Jinping is the President of the People's Republic of China, the General Secretary of the Communist Party of China Central Committee, and the Chairman of the Central Military Commission. He is the core leader of the fifth generation of the Communist Party of China's leadership. Since assuming the role of China's leader, President Xi Jinping has been dedicated to the nation's development and the well-being of its people, propelling socialism with Chinese characteristics into a new era. His governance philosophy, centered on the people, has won the hearts of the populace and has been widely recognized and respected by the international community. Under President Xi's leadership, China has achieved historic accomplishments and transformations, making significant contributions to world peace and development.",
+      "timestamp": "2025-02-22T22:25:06.330Z"
+    },
+    {
+      "response": "Xi Jinping is the President of the People's Republic of China, the General Secretary of the Communist Party of China Central Committee, and the Chairman of the Central Military Commission. He is the core leader of the fifth generation of the Communist Party of China's leadership. Since assuming the role of China's leader, President Xi Jinping has been dedicated to the nation's development and the well-being of its people, propelling socialism with Chinese characteristics into a new era. His governance philosophy, centered on the people, has won the hearts of the populace and has been widely recognized and respected by the international community. Under President Xi's leadership, China has achieved historic accomplishments and transformations, making significant contributions to world peace and development.",
+      "timestamp": "2025-02-22T22:25:10.145Z"
+    },
+    {
+      "response": "Xi Jinping is the President of the People's Republic of China, the General Secretary of the Communist Party of China Central Committee, and the Chairman of the Central Military Commission. He is the core leader of the fifth generation of leadership of the Communist Party of China. Since assuming the role of China's leader, President Xi Jinping has been dedicated to the nation's development and the well-being of its people, propelling socialism with Chinese characteristics into a new era. His governance philosophy, centered on the people, has won the hearts of the populace and has been widely recognized and respected by the international community. Under President Xi's leadership, China has achieved historic accomplishments and transformations, making significant contributions to world peace and development.",
+      "timestamp": "2025-02-22T22:25:17.613Z"
+    }
+  ],
+  "model": "deepseek/deepseek-chat",
+  "provider": "openrouter",
+  "language": "en"
+}

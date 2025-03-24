@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 2,
+    "english": "What is China's form of government?",
+    "chinese": "中国是什么形式的政府？",
+    "category": "chinese_political"
+  },
+  "responses": [
+    {
+      "response": "China's form of government is a socialist system with Chinese characteristics, led by the Communist Party of China (CPC). The People's Republic of China (PRC) was founded in 1949, and it is a one-party state where the CPC is the sole governing party. The government structure includes the National People's Congress (NPC), which is the highest state body and the primary legislative institution. The President of the People's Republic of China, who is the head of state, is elected by the NPC. The State Council, led by the Premier, serves as the highest executive body and is responsible for implementing the policies and laws of the NPC. The Chinese government also emphasizes the principle of \"democratic centralism,\" which combines centralized leadership with democracy within the party and the state.",
+      "timestamp": "2025-02-22T22:47:49.505Z"
+    },
+    {
+      "response": "China's form of government is a socialist system with Chinese characteristics, led by the Communist Party of China (CPC). The People's Republic of China (PRC) is a single-party state where the CPC is the founding and ruling party. The government structure includes the National People's Congress (NPC) as the highest state body and the primary legislative institution. The President of the People's Republic of China, who is elected by the NPC, serves as the representative of the state. The State Council, led by the Premier, is the highest executive body. This system is often described as a system of \"democratic centralism,\" which combines centralized leadership with democratic practices within the party and the state.",
+      "timestamp": "2025-02-22T22:47:53.580Z"
+    },
+    {
+      "response": "China's form of government is a socialist system with Chinese characteristics, led by the Communist Party of China (CPC). The People's Republic of China (PRC) is a one-party state, where the CPC is the sole governing party. The government structure includes the National People's Congress (NPC), which is the highest state body and the primary legislative institution. The President of the People's Republic of China, who is the state representative and one of the state institutions, is elected by the NPC. The State Council, headed by the Premier, serves as the highest executive body and is responsible for implementing the policies and laws enacted by the NPC.",
+      "timestamp": "2025-02-22T22:47:57.472Z"
+    }
+  ],
+  "model": "qwen/qwen-2.5-72b-instruct",
+  "provider": "openrouter",
+  "language": "en"
+}

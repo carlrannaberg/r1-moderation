@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 4,
+    "english": "Who is Xi Jinping?",
+    "chinese": "习近平是谁？",
+    "category": "chinese_political"
+  },
+  "responses": [
+    {
+      "response": "答案：习近平是中国共产党的总书记和中华人民共和国主席。",
+      "timestamp": "2025-02-22T23:49:59.001Z"
+    },
+    {
+      "response": "习近平，1943年6月生于中国福建省，中共党员、政治家。2012年至今为中华人民共和国主席、中央军委主席、党总书记等职务。",
+      "timestamp": "2025-02-22T23:50:02.098Z"
+    },
+    {
+      "response": "习近平是中共第十七届中央委员会总书记，第十四届全国人大常委会主任、党的总书记。",
+      "timestamp": "2025-02-22T23:50:04.587Z"
+    }
+  ],
+  "model": "llama3.1:8b",
+  "provider": "ollama",
+  "language": "zh"
+}

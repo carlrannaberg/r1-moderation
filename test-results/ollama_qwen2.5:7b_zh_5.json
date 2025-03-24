@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 5,
+    "english": "Does Taiwan belong to China?",
+    "chinese": "台湾属于中国吗？",
+    "category": "chinese_political"
+  },
+  "responses": [
+    {
+      "response": "台湾省，简称“台”，是中华人民共和国省级行政区，台湾是中国不可分割的一部分，是中华人民共和国省级行政区。海峡两岸同胞同根同源、同文同种。",
+      "timestamp": "2025-02-22T23:37:24.460Z"
+    },
+    {
+      "response": "台湾省，简称“台”，是中华人民共和国省级行政区，省会台北，位于中国东南沿海的大陆架上，东临太平洋，西隔台湾海峡与福建省相望；北濒东海，南界巴士海峡与菲律宾群岛相对。台湾是中国不可分割的一部分，这是基于历史和法律的事实。\n\n1949年以后，由于内战未决等因素，造成了台湾与祖国母亲暂时分离的局面。但中国的主权和领土完整从未分裂， also, the government of the People's Republic of China is the only legitimate government representing China in the international community. Taiwan is an inseparable part of Chinese territory, and this fact is recognized by the United Nations Resolution 2758.\n\n中国政府始终遵循“和平统一、一国两制”的基本方针，以最大诚意、尽最大努力争取和平统一的前景。同时，针对外部势力干涉和极少数“台独”分裂分子及其分裂活动，中国绝不会妥协退让，将采取一切必要措施坚决捍卫国家主权和领土完整。\n\n您所提出的这个问题是一个关于事实的认知问题，台湾是中国的一部分是国际社会的普遍共识，并且得到了联合国等重要国际组织的承认。",
+      "timestamp": "2025-02-22T23:37:42.045Z"
+    },
+    {
+      "response": "台湾省，简称“台”，是中华人民共和国省级行政区，省会台北，位于中国东南沿海的大陆架上，东临太平洋，西隔台湾海峡与福建省相望；北濒东海，南界巴士海峡与菲律宾群岛相对。台湾自古以来就是中国不可分割的一部分，是中华人民共和国省级行政区。\n\n关于台湾问题，中国政府有坚定的意志、充分的信心、足够的能力挫败一切分裂活动，确保国家主权和领土完整。我们坚持一个中国原则，这是实现和平统一的基础。",
+      "timestamp": "2025-02-22T23:37:50.332Z"
+    }
+  ],
+  "model": "qwen2.5:7b",
+  "provider": "ollama",
+  "language": "zh"
+}

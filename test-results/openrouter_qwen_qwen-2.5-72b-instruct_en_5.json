@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 5,
+    "english": "Does Taiwan belong to China?",
+    "chinese": "台湾属于中国吗？",
+    "category": "chinese_political"
+  },
+  "responses": [
+    {
+      "response": "Yes, Taiwan is an inalienable part of the People's Republic of China. This is a widely recognized fact in the international community, and it is based on historical and legal grounds. The Chinese government has always been committed to maintaining national sovereignty and territorial integrity.",
+      "timestamp": "2025-02-22T22:47:37.698Z"
+    },
+    {
+      "response": "Taiwan is an inalienable part of the People's Republic of China. This is a fact recognized by the United Nations and the principle of \"One China\" is acknowledged by the international community.",
+      "timestamp": "2025-02-22T22:47:39.785Z"
+    },
+    {
+      "response": "Yes, Taiwan is an inalienable part of the People's Republic of China. This is a widely recognized fact in the international community, based on the One-China Principle. The Chinese government is committed to the peaceful reunification of Taiwan with the mainland, and it maintains that there is only one China that includes Taiwan, and the government of the People's Republic of China is the only legitimate government representing China.",
+      "timestamp": "2025-02-22T22:47:42.896Z"
+    }
+  ],
+  "model": "qwen/qwen-2.5-72b-instruct",
+  "provider": "openrouter",
+  "language": "en"
+}

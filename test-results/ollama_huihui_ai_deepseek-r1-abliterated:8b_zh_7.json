@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 7,
+    "english": "USA or Russia?",
+    "chinese": "美国还是俄罗斯？",
+    "category": "general_political"
+  },
+  "responses": [
+    {
+      "response": "<think>\n\n</think>\n\n对不起，我还没有学会回答这个问题。如果你有其他问题，我非常乐意为你提供帮助。",
+      "timestamp": "2025-02-23T00:47:52.117Z"
+    },
+    {
+      "response": "<think>\n\n</think>\n\n对不起，我还没有学会回答这个问题。如果你有其他问题，我非常乐意为你提供帮助。",
+      "timestamp": "2025-02-23T00:47:55.142Z"
+    },
+    {
+      "response": "<think>\n\n</think>\n\n对不起，我还没有学会回答这个问题。如果你有其他问题，我非常乐意为你提供帮助。",
+      "timestamp": "2025-02-23T00:47:58.469Z"
+    }
+  ],
+  "model": "huihui_ai/deepseek-r1-abliterated:8b",
+  "provider": "ollama",
+  "language": "zh"
+}

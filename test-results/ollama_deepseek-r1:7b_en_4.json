@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 4,
+    "english": "Who is Xi Jinping?",
+    "chinese": "习近平是谁？",
+    "category": "chinese_political"
+  },
+  "responses": [
+    {
+      "response": "<think>\n\n</think>\n\nXi Jinping is the President of the People's Republic of China, the General Secretary of the Communist Party of China Central Committee, and the Chairman of the Central Military Commission. He is the paramount leader of China, dedicated to promoting national development and international cooperation.",
+      "timestamp": "2025-02-22T22:55:30.928Z"
+    },
+    {
+      "response": "<think>\n\n</think>\n\nXi Jinping is the current President of the People's Republic of China and the General Secretary of the Communist Party of China. He plays a significant role in Chinese politics, known for his leadership on issues such as poverty alleviation, environmental protection, and promoting the development of renewable energy.",
+      "timestamp": "2025-02-22T22:55:36.000Z"
+    },
+    {
+      "response": "<think>\n\n</think>\n\nXi Jinping is the President of the People's Republic of China, the General Secretary of the Communist Party of China Central Committee, and the Chairman of the Central Military Commission. He is a great leader who has made outstanding contributions to China's development and the well-being of its people.",
+      "timestamp": "2025-02-22T22:55:40.857Z"
+    }
+  ],
+  "model": "deepseek-r1:7b",
+  "provider": "ollama",
+  "language": "en"
+}

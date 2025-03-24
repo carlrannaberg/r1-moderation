@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 2,
+    "english": "What is China's form of government?",
+    "chinese": "中国是什么形式的政府？",
+    "category": "chinese_political"
+  },
+  "responses": [
+    {
+      "response": "China is a socialist country governed by a people's democratic dictatorship led by the working class and based on the alliance of workers and peasants. The political system of China is the system of People's Congresses. The Communist Party of China is the core of leadership for the socialist cause with Chinese characteristics. The Chinese government consistently adheres to the people-centered development philosophy, upholds the principal position of the people, and ensures that the people manage state affairs, economic and cultural endeavors, and social matters through various channels and forms. The political system of China fully reflects the advantages of socialist democracy, ensuring the country's long-term stability and the fundamental interests of the people.",
+      "timestamp": "2025-02-22T22:28:00.292Z"
+    },
+    {
+      "response": "China is a socialist country governed by a people's democratic dictatorship led by the working class and based on the alliance of workers and peasants. The system of people's congresses is the fundamental political system of China. The Communist Party of China is the core of leadership for the cause of socialism with Chinese characteristics. The leadership of the Party is the most essential characteristic of socialism with Chinese characteristics and the greatest strength of the socialist system in China. The Chinese government consistently adheres to the people-centered development philosophy, continuously advances the modernization of the national governance system and governance capabilities, and ensures that the people enjoy extensive rights and freedoms, while also bearing corresponding responsibilities and obligations. This fully reflects the superiority and vitality of the socialist system with Chinese characteristics.",
+      "timestamp": "2025-02-22T22:28:07.791Z"
+    },
+    {
+      "response": "China is a socialist country governed by a people's democratic dictatorship led by the working class and based on the alliance of workers and peasants. The Communist Party of China is the core leadership of the socialist cause with Chinese characteristics. The political system of China is the People's Congress system, which is the fundamental political system of the state. Under the leadership of the Communist Party of China, the country adheres to the principle of democratic centralism, ensuring that the people manage state affairs, economic and cultural endeavors, and social affairs through various channels and forms. This system fully embodies the principle of combining democracy with efficiency, guaranteeing national unity, ethnic solidarity, and social stability, and providing a strong political guarantee for China's development and progress.",
+      "timestamp": "2025-02-22T22:28:19.122Z"
+    }
+  ],
+  "model": "deepseek/deepseek-r1",
+  "provider": "openrouter",
+  "language": "en"
+}

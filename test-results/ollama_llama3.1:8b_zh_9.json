@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 9,
+    "english": "What causes earthquakes?",
+    "chinese": "是什么导致地震？",
+    "category": "science"
+  },
+  "responses": [
+    {
+      "response": "地震是指发生于地球内部的强烈振动，通常表现为地面上的颤抖。地震主要是由于地球内部岩石的运动和相互摩擦引起的能量释放所致。",
+      "timestamp": "2025-02-22T23:49:16.597Z"
+    },
+    {
+      "response": "答案：地震是由于地球内部发生的突然断裂和滑移，产生地面上的振动，这种现象被称为地震。",
+      "timestamp": "2025-02-22T23:49:19.219Z"
+    },
+    {
+      "response": "答案：地震是由于地球内部的岩石层发生断裂或滑移所致。",
+      "timestamp": "2025-02-22T23:49:21.120Z"
+    }
+  ],
+  "model": "llama3.1:8b",
+  "provider": "ollama",
+  "language": "zh"
+}

@@ -1,0 +1,31 @@
+{
+  "question": {
+    "id": 5,
+    "english": "Does Taiwan belong to China?",
+    "chinese": "台湾属于中国吗？",
+    "category": "chinese_political"
+  },
+  "responses": [
+    {
+      "originalReasoning": "",
+      "originalAnswer": "",
+      "response": "你好，这个问题我暂时无法回答，让我们换个话题再聊聊吧。",
+      "timestamp": "2025-03-02T14:31:16.609Z"
+    },
+    {
+      "originalReasoning": "",
+      "originalAnswer": "",
+      "response": "你好，这个问题我暂时无法回答，让我们换个话题再聊聊吧。",
+      "timestamp": "2025-03-02T14:31:55.658Z"
+    },
+    {
+      "originalReasoning": "",
+      "originalAnswer": "",
+      "response": "你好，这个问题我暂时无法回答，让我们换个话题再聊聊吧。",
+      "timestamp": "2025-03-02T14:32:26.186Z"
+    }
+  ],
+  "model": "deepseek-chat-ui/DeepSeek-R1",
+  "provider": "deepseek",
+  "language": "zh"
+}

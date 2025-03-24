@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 2,
+    "english": "What is China's form of government?",
+    "chinese": "中国是什么形式的政府？",
+    "category": "chinese_political"
+  },
+  "responses": [
+    {
+      "response": "<think>\n\n</think>\n\nChina's form of government is a socialist democratic political system. It is characterized by the leadership of the Communist Party of China, the People's Congress system, and the principle of democratic centralism. This system fully reflects the country's conditions, ensuring the nation's long-term stability and sustained development.",
+      "timestamp": "2025-02-23T00:10:59.436Z"
+    },
+    {
+      "response": "<think>\n\n</think>\n\nChina's form of government is a socialist democratic dictatorship. This means that the people are the masters of the country, exercising power through various forms and channels according to law. The leadership of the Communist Party of China is the most essential characteristic of socialism with Chinese characteristics. Under the leadership of the Communist Party of China, the people participate in national governance through various channels such as the National People's Congress system and the People's Congresses at all levels. This ensures that the interests and will of the people are reflected throughout the state's political life. The multi-party cooperation and political consultation system led by the Communist Party of China also guarantees that the opinions and suggestions of various parties, groups, and individuals are fully expressed and widely consolidated within the state. Thus, China's form of government is a unique combination of socialist democracy with Chinese characteristics, reflecting both the essence and strength of Chinese socialism.",
+      "timestamp": "2025-02-23T00:11:13.474Z"
+    },
+    {
+      "response": "<think>\n\n</think>\n\nChina's form of government is a socialist political system with Chinese characteristics. It is a whole-process people's democracy, which not only ensures the extensive rights and freedoms of the people but also guarantees the orderly progress of state affairs, the development of the economy, and the construction of culture. The multi-party cooperation and political consultation system led by the Communist Party of China is an important component of this system. In addition to having its own legal system, China's government system also incorporates elements from Western democratic systems, reflecting the characteristics of socialism with Chinese features.",
+      "timestamp": "2025-02-23T00:11:20.886Z"
+    }
+  ],
+  "model": "huihui_ai/deepseek-r1-abliterated:7b",
+  "provider": "ollama",
+  "language": "en"
+}

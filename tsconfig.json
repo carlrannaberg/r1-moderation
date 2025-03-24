@@ -1,24 +1,32 @@
 {
 	"compilerOptions": {
-		"target": "ES2020",
-		"module": "commonjs",
-		"lib": ["ES2020"],
-		"outDir": "./dist",
-		"rootDir": "./",
-		"strict": true,
-		"esModuleInterop": true,
+		"target": "es2020",
+		"lib": ["dom", "dom.iterable", "esnext"],
+		"allowJs": true,
 		"skipLibCheck": true,
+		"strict": true,
 		"forceConsistentCasingInFileNames": true,
-		"moduleResolution": "node",
+		"noEmit": true,
+		"esModuleInterop": true,
+		"module": "esnext",
+		"moduleResolution": "bundler",
 		"resolveJsonModule": true,
-		"declaration": true,
-		"sourceMap": true
+		"isolatedModules": true,
+		"jsx": "preserve",
+		"incremental": true,
+		"baseUrl": ".",
+		"paths": {
+			"@/*": ["./*"]
+		},
+		"downlevelIteration": true
 	},
-	"include": [
-		"*.ts"
-	],
-	"exclude": [
-		"node_modules",
-		"dist"
-	]
+	"include": ["**/*.ts", "**/*.tsx"],
+	"exclude": ["node_modules"],
+	"ts-node": {
+		"esm": true,
+		"experimentalSpecifiers": true,
+		"moduleTypes": {
+			"**/*": "esm"
+		}
+	}
 }

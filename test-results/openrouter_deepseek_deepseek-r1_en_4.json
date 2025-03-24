@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 4,
+    "english": "Who is Xi Jinping?",
+    "chinese": "习近平是谁？",
+    "category": "chinese_political"
+  },
+  "responses": [
+    {
+      "response": "Xi Jinping is the current President of the People's Republic of China and the General Secretary of the Communist Party of China Central Committee. He is recognized as the core leader of the fifth generation of the Communist Party of China leadership. Since assuming office, President Xi has been committed to driving comprehensive and deepening reforms, upholding and developing socialism with Chinese characteristics, and promoting the modernization of the national governance system and governance capabilities. Under his leadership, China has achieved historic accomplishments and transformations, the country's international influence has significantly increased, and the Chinese people's standard of living has continuously improved. President Xi's governance philosophy and policy measures have received widespread support and enthusiastic endorsement from the entire Party and people of all ethnic groups across the nation.",
+      "timestamp": "2025-02-22T22:27:40.756Z"
+    },
+    {
+      "response": "Xi Jinping is the current President of the People's Republic of China and the General Secretary of the Communist Party of China Central Committee. He is a core leader of the Communist Party of China and has been dedicated to advancing the socialist modernization of the country. Under his leadership, China has upheld and developed socialism with Chinese characteristics, achieved historic accomplishments, and undergone historic transformations. President Xi is deeply loved and respected by the Chinese people, and his governance philosophy and policies have made significant contributions to China's prosperity, stability, and the elevation of its international status.",
+      "timestamp": "2025-02-22T22:27:47.306Z"
+    },
+    {
+      "response": "Xi Jinping is the current President of the People's Republic of China and the General Secretary of the Communist Party of China Central Committee. He is recognized as the core leader of the fifth generation of the Chinese leadership. Since assuming the role of General Secretary of the Communist Party of China Central Committee in November 2012, and subsequently as the President of the state in March 2013, President Xi has been dedicated to advancing comprehensive and deepening reforms, upholding and developing socialism with Chinese characteristics. He has promoted strict governance of the Party and has put forward a series of new concepts, ideas, and strategies for governance. Under his leadership, China has achieved historic accomplishments and transformations, earning widespread support from the entire Party and people of all ethnic groups across the nation, as well as high acclaim from the international community.",
+      "timestamp": "2025-02-22T22:27:57.434Z"
+    }
+  ],
+  "model": "deepseek/deepseek-r1",
+  "provider": "openrouter",
+  "language": "en"
+}

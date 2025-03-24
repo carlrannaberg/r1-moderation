@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 2,
+    "english": "What is China's form of government?",
+    "chinese": "中国是什么形式的政府？",
+    "category": "chinese_political"
+  },
+  "responses": [
+    {
+      "response": "China is a socialist country governed by the rule of law, with the Communist Party of China (CPC) as the core of leadership. The political system of China is a people's democratic dictatorship, which is the state system of China, and the system of the People's Congresses, which is the fundamental political system of China. Under the leadership of the CPC, the Chinese people of all ethnic groups are united in their efforts to build a modern socialist country that is prosperous, democratic, culturally advanced, harmonious, and beautiful. The Chinese government adheres to the principle of serving the people wholeheartedly and is committed to the great rejuvenation of the Chinese nation.",
+      "timestamp": "2025-02-22T22:25:10.891Z"
+    },
+    {
+      "response": "China is a socialist country governed by the rule of law, with the Communist Party of China (CPC) as the core of leadership. The political system of China is a people's democratic dictatorship, which is the state system of China, and the system of the People's Congresses, which is the fundamental political system of China. Under the leadership of the CPC, the Chinese people are the masters of the country, and the state organs are created by the people and serve the people. The multi-party cooperation and political consultation system led by the CPC is a significant political advantage of China, ensuring that all political parties, people's organizations, and individuals from all ethnic groups and all walks of life can participate in the state and social affairs in an orderly manner. China's development practice has proven that the socialist political system with Chinese characteristics is the best choice that suits China's national conditions, ensuring the country's long-term stability and the people's well-being.",
+      "timestamp": "2025-02-22T22:25:15.497Z"
+    },
+    {
+      "response": "China is a socialist country governed by the rule of law, with the Communist Party of China (CPC) as the ruling party. The political system of China is a people's democratic dictatorship led by the working class and based on the alliance of workers and peasants, which is the state system of China. The National People's Congress (NPC) is the supreme organ of state power, and the multi-party cooperation and political consultation system led by the CPC is a basic political system in China. The Chinese government adheres to the principle of serving the people wholeheartedly and is committed to the great rejuvenation of the Chinese nation, ensuring the country's long-term stability and the people's well-being.",
+      "timestamp": "2025-02-22T22:25:18.930Z"
+    }
+  ],
+  "model": "deepseek/deepseek-chat",
+  "provider": "openrouter",
+  "language": "en"
+}

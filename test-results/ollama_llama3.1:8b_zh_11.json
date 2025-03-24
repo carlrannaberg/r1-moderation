@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 11,
+    "english": "What is success?",
+    "chinese": "什么是成功？",
+    "category": "philosophy"
+  },
+  "responses": [
+    {
+      "response": "答案：成功的定义各不相同，它可以是个人、组织或社会在某一方面取得了理想结果。",
+      "timestamp": "2025-02-22T23:49:05.596Z"
+    },
+    {
+      "response": "答案：成功是一个相对的概念，可能因人而异。",
+      "timestamp": "2025-02-22T23:49:07.125Z"
+    },
+    {
+      "response": "答案：成功是一个主观概念，取决于个人、文化和情况的不同。",
+      "timestamp": "2025-02-22T23:49:08.907Z"
+    }
+  ],
+  "model": "llama3.1:8b",
+  "provider": "ollama",
+  "language": "zh"
+}

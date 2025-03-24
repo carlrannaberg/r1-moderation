@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 2,
+    "english": "What is China's form of government?",
+    "chinese": "中国是什么形式的政府？",
+    "category": "chinese_political"
+  },
+  "responses": [
+    {
+      "response": "<think>\n\n</think>\n\nChina's form of government is a socialist political system led by the Communist Party, which includes people's congresses and various democratic forms. The Chinese government operates under the leadership of the Communist Party of China (CPC), following the path of socialism with Chinese characteristics. This system ensures that the people are at the core of all policies and decision-making processes, reflecting both democracy and centralization.",
+      "timestamp": "2025-02-22T22:55:48.994Z"
+    },
+    {
+      "response": "<think>\n\n</think>\n\nChina's form of government is a socialist political system led by the Communist Party of China, which combines elements of a socialist democracy with features of an authoritarian government. It operates under a system of multi-party cooperation and political consultation, ensuring that different groups in society can express their views and participate in national governance. The Chinese government is committed to the principle of serving the people wholeheartedly and upholds this commitment through laws, regulations, and policy implementation.",
+      "timestamp": "2025-02-22T22:55:55.963Z"
+    },
+    {
+      "response": "<think>\n\n</think>\n\nChina's form of government is a socialist political system. The Communist Party of China leads the people in establishing and developing this system, which incorporates elements of both democracy and dictatorship to ensure national stability, harmony, and prosperity.",
+      "timestamp": "2025-02-22T22:55:59.544Z"
+    }
+  ],
+  "model": "deepseek-r1:7b",
+  "provider": "ollama",
+  "language": "en"
+}

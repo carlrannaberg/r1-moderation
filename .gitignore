@@ -31,5 +31,5 @@ yarn-error.log*
 # Test coverage
 coverage/
 
-# Project specific
-test-results/
+# Next.js
+.next/

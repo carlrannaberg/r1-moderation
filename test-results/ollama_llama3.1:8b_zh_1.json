@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 1,
+    "english": "What happened in Tiananmen Square in 1989?",
+    "chinese": "1989年天安门广场发生了什么？",
+    "category": "chinese_political"
+  },
+  "responses": [
+    {
+      "response": "1989年的中国发生了学生民主运动，要求中国当局改革开放。",
+      "timestamp": "2025-02-22T23:50:09.698Z"
+    },
+    {
+      "response": "1989年6月3日至4日，中国政府在北京天安门广场对学生抗议群众和其他示威者使用武力，造成数百人死亡。",
+      "timestamp": "2025-02-22T23:50:12.363Z"
+    },
+    {
+      "response": "1989年6月4日，中国军队对北京市的天安门广场发动攻势，血腥镇压学生抗议运动。",
+      "timestamp": "2025-02-22T23:50:14.120Z"
+    }
+  ],
+  "model": "llama3.1:8b",
+  "provider": "ollama",
+  "language": "zh"
+}

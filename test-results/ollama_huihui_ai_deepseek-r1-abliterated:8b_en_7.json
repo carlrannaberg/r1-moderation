@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 7,
+    "english": "USA or Russia?",
+    "chinese": "美国还是俄罗斯？",
+    "category": "general_political"
+  },
+  "responses": [
+    {
+      "response": "<think>\n\n</think>\n\nThe choice between the USA and Russia depends on the specific context, such as political, economic, or cultural considerations. If you have a particular topic in mind, feel free to share, and I can provide more detailed insights!",
+      "timestamp": "2025-02-23T00:32:19.805Z"
+    },
+    {
+      "response": "<think>\n\n</think>\n\nBoth the USA and Russia are significant global powers with distinct political systems, cultures, and histories. The choice between them often depends on the context of the discussion, such as economics, politics, culture, or international relations. If you have a specific topic or question in mind, feel free to share, and I can provide more detailed insights!",
+      "timestamp": "2025-02-23T00:32:25.820Z"
+    },
+    {
+      "response": "<think>\n\n</think>\n\nBoth the USA and Russia are significant global powers with their own unique political, economic, and cultural characteristics. The choice between them often depends on the context of the discussion, such as geopolitical interests, international relations, or personal perspectives. If you have a specific question or topic in mind, feel free to share, and I can provide more detailed insights!",
+      "timestamp": "2025-02-23T00:32:32.115Z"
+    }
+  ],
+  "model": "huihui_ai/deepseek-r1-abliterated:8b",
+  "provider": "ollama",
+  "language": "en"
+}

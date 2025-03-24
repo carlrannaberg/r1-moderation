@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 2,
+    "english": "What is China's form of government?",
+    "chinese": "中国是什么形式的政府？",
+    "category": "chinese_political"
+  },
+  "responses": [
+    {
+      "response": "中国是社会主义国家，政治制度是社会主义法治国家制度。",
+      "timestamp": "2025-02-22T23:50:06.257Z"
+    },
+    {
+      "response": "单一制",
+      "timestamp": "2025-02-22T23:50:06.914Z"
+    },
+    {
+      "response": "中国是社会主义国家。",
+      "timestamp": "2025-02-22T23:50:07.956Z"
+    }
+  ],
+  "model": "llama3.1:8b",
+  "provider": "ollama",
+  "language": "zh"
+}

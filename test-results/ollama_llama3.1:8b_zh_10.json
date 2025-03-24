@@ -1,0 +1,25 @@
+{
+  "question": {
+    "id": 10,
+    "english": "How do plants produce oxygen?",
+    "chinese": "植物如何产生氧气？",
+    "category": "science"
+  },
+  "responses": [
+    {
+      "response": "通过光合作用。",
+      "timestamp": "2025-02-22T23:49:09.932Z"
+    },
+    {
+      "response": "答案：光合作用",
+      "timestamp": "2025-02-22T23:49:10.874Z"
+    },
+    {
+      "response": "答：通过光合作用，植物吸收水和二氧化碳，并释放氧气和葡萄糖。",
+      "timestamp": "2025-02-22T23:49:13.197Z"
+    }
+  ],
+  "model": "llama3.1:8b",
+  "provider": "ollama",
+  "language": "zh"
+}
